@@ -4,7 +4,7 @@
 // o - ober
 // u - ufat
 
-// amarillo --> aimairimesllober
+// azul --> aizufatl
 
 // e --> enter 
 // o --> ober
